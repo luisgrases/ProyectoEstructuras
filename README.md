@@ -1,16 +1,19 @@
 # Proyeto Estructuras de Datos
 
-  * [Introducción](#introducción)
-  * [Implementación](#implementación)
-    + [Clases](#clases)
-      - [Vertex](#vertex)
-      - [Edge](#edge)
-      - [Graph](#graph)
-    + [Caso](#caso)
-    + [Problemas Encontrados](#problemas-encontrados)
-      - [Menú en consola](#men--en-consola)
-      - [Clases](#clases-1)
-  * [Investigación](#investigación)
+- [Proyeto Estructuras de Datos](#proyeto-estructuras-de-datos)
+	- [Introducción](#introducción)
+	- [Implementación](#implementación)
+		- [Clases](#clases)
+			- [Vertex](#vertex)
+			- [Edge](#edge)
+			- [Graph](#graph)
+		- [Caso](#caso)
+		- [Problemas Encontrados](#problemas-encontrados)
+			- [Menú en consola](#menú-en-consola)
+			- [Clases](#clases-1)
+	- [Estado Actual](#estado-actual)
+	- [Investigación](#investigación)
+
 
 
 ## Introducción
@@ -105,6 +108,9 @@ Se crea un objeto Edge con un metodo `init` que representa el constructor. Edge 
 ##Instrucciones de Operación
 Para correr la aplicación se ejecuta el archivo View.js utilizando node: `node View.js`. Seguidamente se despliega un menú con las distintas opciones. El menú se explica por si mismo.
 ##Estado Actual
+La aplicación esta operativa. Es posible que hayan casos especificos donde falle como toda aplicación pero hasta ahora no se han encontrado.
+
+## Estado Actual
 La aplicación esta operativa. Es posible que hayan casos especificos donde falle como toda aplicación pero hasta ahora no se han encontrado.
 
 ## Investigación
