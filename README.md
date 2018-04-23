@@ -1,5 +1,16 @@
 # Proyeto Estructuras de Datos
 
+  * [Introducción](#introducción)
+  * [Implementación](#implementación)
+    + [Clases](#clases)
+      - [Vertex](#vertex)
+      - [Edge](#edge)
+      - [Graph](#graph)
+    + [Caso](#caso)
+    + [Problemas Encontrados](#problemas-encontrados)
+      - [Menú en consola](#men--en-consola)
+      - [Clases](#clases-1)
+  * [Investigación](#investigación)
 
 
 ## Introducción
