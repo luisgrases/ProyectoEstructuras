@@ -38,7 +38,7 @@ La implementación de la solución se hizo en javascript. Es un lenguaje orienta
 
 `showTotalWeightFromOrigin(vertexTo)` Muestra el ponderado total desde el origen hasta el vértice especificado.
 
-###Caso
+### Caso
 Como esta investigación estudia un problema específico, se recreó el siguiente escenario:
 
 Se toman 5 ciudades: `San José`, `Barcelona`, `Madrid`, `Paris`, `Miami`
@@ -63,7 +63,7 @@ const verticesHash = {
 ```
 Esto deja el problema preparado para poder aplicar Dijkstra a la hora de ejecutarlo.
 
-###Problemas Encontrados
+### Problemas Encontrados
 #### Menú en consola
 A la hora de realizar el menú en consola, el proceso es un poco incómodo. En vez de tener un `while(condicion) -> mostrarMenú` se require hacer una función recurrente que al terminar se llame a si misma:
 ```
@@ -95,7 +95,7 @@ Para correr la aplicación se ejecuta el archivo View.js utilizando node: `node 
 ##Estado Actual
 La aplicación esta operativa. Es posible que hayan casos especificos donde falle como toda aplicación pero hasta ahora no se han encontrado.
 
-##Investigación
+## Investigación
 Ver Adjunto.
 
 
