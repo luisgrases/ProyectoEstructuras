@@ -1,6 +1,6 @@
 # Proyeto Estructuras de Datos
 
-[TOC]
+
 
 ## Introducción
 La siguiente investigación explora el algoritmo Dijkstra. Dicho algoritmo es utilizado para resolver el camino mas corto entre dos vértices en un grafo ponderado. La investigación consiste en la recreación de un problema real donde se tienen distintas localidades separadas por una distancia especifica. Esta distancia no esta únicamente ligada a unidaded de longitud, si no que también puede representarse como unidad de tiempo u otras medidas. Se requiere conocer el recorrido óptimo entre dos vértices en un tiempo de O(|V|^{2}) . Además se quiere permitir que el usuario busque un vértice en tiempo constante utilizando una tabla hash.
