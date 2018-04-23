@@ -2,6 +2,7 @@
 
 - [Proyeto Estructuras de Datos](#proyeto-estructuras-de-datos)
 	- [Introducción](#introducción)
+	- [Uso](#uso)
 	- [Implementación](#implementación)
 		- [Clases](#clases)
 			- [Vertex](#vertex)
@@ -22,6 +23,10 @@ La siguiente investigación explora el algoritmo Dijkstra. Dicho algoritmo es ut
 Un grafo ponderado es aquel donde los arcos que unen a los vértices poseen un valor que representan el costo de moverse entre un vértice y otro. Este costo puede ser representado en diferentes unidades, ya sea tiempo, dinero, distancia etc.
 
 Una tabla hash es una tabla que permite almacenar y buscar elementos por medio de una llave en tiempo constante O(1). Para ello mapea cada llave a un entero que sera utilizado como index en un array donde realmente se guardan los elementos. Este mapeo se realiza con un metodo llamado hashing. Esto da mucha comodidad ya que permite asociar una llave que es fácil de recordar a un elemento especifico.
+
+
+## Uso
+Para utilizar la aplicación, nada mas hay que descargar los archivos y correr `View.js` utilizando Node. `node View.js`. Una vez hecho esto se desplega un menú con las distintas opciones. El menú se explica por si mismo.
 
 
 ## Implementación
